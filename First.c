@@ -5,5 +5,12 @@
 int main(void)
 {
 	printf("First Push Repository");
+	printf("First Push Repository");
+        printf("First Push Repository");
+        printf("First Push Repository");
+        printf("First Push Repository");
+        printf("First Push Repository");
+        printf("First Push Repository");
+
 	return 0;
 }
